@@ -6,8 +6,7 @@ Ace (Ajax.org Cloud9 Editor)
 Ace is a code editor written in JavaScript.
 
 This repository has only generated files.
-If you want to work on ace please go to https://github.com/ajaxorg/ace instead.
-
+If you want to work on ace please go to
 
 here you can find pre-built files for convenience of embedding.
 it contains 4 versions
